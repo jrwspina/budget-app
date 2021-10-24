@@ -1,4 +1,4 @@
-### Budget App is a project part of freeCodeCamp's Scientific Computing with Python course.
+#### Budget App is a project part of freeCodeCamp's [Scientific Computing with Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/), the solution is located in the file *budget.py*.
 
 ### Assignment
 
